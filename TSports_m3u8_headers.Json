@@ -2,12 +2,12 @@
   "name": "TSports App All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 1,
-  "updated_on": "26-09-2025 on 2:29:17 PM \ud83c\udf1e",
+  "updated_on": "02-10-2025 on 10:24:34 AM \ud83c\udf1e",
   "channels": [
     {
       "category_name": "LIVE",
-      "name": "T Sports Live 01",
-      "logo": "https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg",
+      "name": "LIVE | India vs West Indies, 1st Test",
+      "logo": "https://image.tsports.com/images/mobile_thumbnail/1759314297-Promo-thum-1280.jpg",
       "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
       "headers": {
         "Cookie": "",
